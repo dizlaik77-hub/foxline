@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: linear-gradient(black, purple);
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: violet;
+}
+
+button {
+    background: black;
+    border: 2px solid violet;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+button:hover {
+    background: violet;
+}
+
+.card {
+    border: 1px solid violet;
+    padding: 10px;
+    margin: 10px;
+}
+
+.watched {
+    background: green;
+}
